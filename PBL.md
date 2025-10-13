@@ -7,3 +7,6 @@ In a 2-hour class session, students are introduced to the case as physics consul
 Throughout the week, students independently explore the underlying physics. They use textbooks, curated online resources and lecture notes to understand the possible failure mechanisms ranging from quantum dot size distribution and surface defects to non-radiative recombination and thermal effects. Students analyze and interpret the scenario, eventually organizing their findings into a consulting-style report or class presentation.
 
 The instructor provides feedback and improvement not just the technical accuracy but also the quality of reasoning, analysis, and creativity. By tackling authentic challenges like the HelioDot case, students shift from passive content absorption to active, interdisciplinary problem-solving. This one-week PBL module can deepen learning outcomes than many weeks of traditional lecture, helping students see physics as a practical tool to address real-world issues.
+
+Example as below 
+[https://github.com/ph7klw76/creativeteachingmethod/blob/main/The%20Quantum%20Dot%20Solar%20Concentrator%20Mystery%20(1).pdf]

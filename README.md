@@ -13,5 +13,5 @@
 7. [Diagnostic for end of each class](https://github.com/ph7klw76/creativeteachingmethod/blob/main/classend.md)
 8. [Improving Final Year Report](https://github.com/ph7klw76/creativeteachingmethod/blob/main/FYP.md)
 9. [AI-assited data analysis of Lab data](https://github.com/ph7klw76/creativeteachingmethod/blob/main/lab.md)
-10. [Join the evolving OpenAI’s Higher Education Community](https://academy.openai.com/public/clubs/higher-education-05x4z/content)
+10. [Join the evolving OpenAI’s Higher Education Community](https://academy.openai.com/public/clubs/higher-education-05x4z)
    

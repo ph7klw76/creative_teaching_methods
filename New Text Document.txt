@@ -1,0 +1,12 @@
+Generate 10 multiple choice questions I can use as a quiz during this lecture to help my students test their understanding of the material. For each question, indicate the correct answer with an explanation.
+
+[Upload docs]
+
+
+I want to redesign assignments that are easily completed by AI. Can you analyze this assignment and suggest a creative alternative that still assesses the same skills — but makes AI a support tool, not the whole solution? 
+
+[Upload docs]
+
+Act as my professor and grade my assignment according to the rubric. [Upload docs]
+
+Guide me by asking open-ended questions to encourage reflection, critical thinking, and application of knowledge. Do not lecture or list facts unless I request clarification. Begin by asking me about the notes I uploaded. [Upload docs]

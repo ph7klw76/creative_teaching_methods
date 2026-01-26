@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Artificial intelligence (AI) is rapidly reshaping how undergraduate physics can be taught, practiced, and assessed. This review synthesizes evidence from research on intelligent tutoring systems (ITS), AI-supported active learning, and generative AI (large language models; LLMs) to identify approaches most likely to improve student learning outcomes across the undergraduate physics curriculum. Evidence from meta-analyses suggests that well-designed ITS frequently produce learning gains above conventional instruction and can approach the effectiveness of human tutoring under some conditions. Physics-specific systems (e.g., step-based problem-solving tutors) show that “making reasoning visible” and providing immediate, step-level feedback can improve problem-solving performance without requiring major curricular overhaul. Recent randomized controlled evidence also indicates that AI tutoring can outperform in-class active learning in an authentic educational setting, though generalization and implementation details matter. In parallel, LLMs offer scalable conversational support but introduce risks: over-trust, persuasive but incorrect explanations, and inconsistent performance—especially on conceptual and visual-representation tasks—requiring explicit AI literacy and verification workflows. We conclude with a practical, outcomes-aligned framework for embedding AI across lectures, tutorials, homework, laboratories, and assessment, emphasizing guardrails, equity, and rigorous evaluation.
+Artificial intelligence (AI) is rapidly reshaping how undergraduate physics can be taught, practiced, and assessed. This review synthesizes evidence from research on intelligent tutoring systems (ITS), AI-supported active learning, and generative AI (large language models; LLMs) to identify approaches most likely to improve student learning outcomes across the undergraduate physics curriculum. Evidence from meta-analyses suggests that well designed ITS frequently produce learning gains above conventional instruction and can approach the effectiveness of human tutoring under some conditions. Physics-specific systems (e.g., step-based problem-solving tutors) show that “making reasoning visible” and providing immediate, step-level feedback can improve problem-solving performance without requiring major curricular overhaul. Recent randomized controlled evidence also indicates that AI tutoring can outperform in-class active learning in an authentic educational setting, though generalization and implementation details matter. In parallel, LLMs offer scalable conversational support but introduce risks: over-trust, persuasive but incorrect explanations, and inconsistent performance especially on conceptual and visual-representation tasks requiring explicit AI literacy and verification workflows. We conclude with a practical, outcomes-aligned framework for embedding AI across lectures, tutorials, homework, laboratories, and assessment, emphasizing guardrails, equity, and rigorous evaluation.
 
 # 1. Introduction
 
@@ -13,7 +13,7 @@ Undergraduate physics learning outcomes commonly include (i) conceptual understa
 - Generative AI (LLMs) for conversational explanations, feedback on reasoning, and writing/code support.
 - AI-enabled data science workflows (e.g., machine learning, automation) as both content and tooling for modern physics practice.
 
-The central question is not whether AI is “powerful,” but whether a given AI integration improves measurable learning outcomes under real instructional constraints—without undermining academic integrity, equity, or student agency.
+The central question is not whether AI is “powerful,” but whether a given AI integration improves measurable learning outcomes under real instructional constraints without undermining academic integrity, equity, or student agency.
 
 # 2. Evidence base: what tends to improve outcomes?
 
@@ -21,7 +21,7 @@ The central question is not whether AI is “powerful,” but whether a given AI
 
 Meta-analytic research across domains generally finds positive effects of ITS compared with conventional instruction, with effect sizes varying by tutor design, comparison condition, and alignment of assessments to what the tutor teaches. Fletcher and Kulik’s meta-analytic review reports substantial performance gains for digital tutors across controlled evaluations (with typical median effects reported as meaningfully above conventional classes).
 
-A complementary synthesis of meta-reviews highlights that step-based ITS—systems that respond to each step of a learner’s solution rather than only the final answer—can approach the effectiveness of average human tutors, while still exceeding “content-only” conditions.  
+A complementary synthesis of meta-reviews highlights that step-based ITS systems that respond to each step of a learner’s solution rather than only the final answer—can approach the effectiveness of average human tutors, while still exceeding “content-only” conditions.  
 **Interpretation:** the instructional mechanism most consistently linked to gains is not “AI magic,” but timely, specific feedback tied to learner actions.
 
 ## 2.2 Physics-specific tutoring: step-level feedback and representational practices
@@ -32,7 +32,7 @@ A canonical physics example is the Andes Physics Tutoring System, designed to be
 ## 2.3 Randomized field evidence: AI tutoring vs active learning
 
 A recent randomized controlled trial in an authentic educational setting reports that AI tutoring outperformed in-class active learning on measured outcomes, positioning AI tutoring as a potentially high-impact intervention when well aligned to learning goals and embedded into real course workflows.  
-**Interpretation:** AI can be more than “study help” if it is engineered as instruction—yet replication across institutions, topics, and student populations remains crucial.
+**Interpretation:** AI can be more than “study help” if it is engineered as instruction yet replication across institutions, topics, and student populations remains crucial.
 
 ## 2.4 Generative AI (LLMs): scalable dialogue, new risks
 
@@ -114,7 +114,7 @@ A serious implementation should measure impact rather than assume it:
 
 # 7. Conclusion
 
-Embedding AI into undergraduate physics can improve outcomes when AI is designed as instruction: step-level feedback, enforced expert practices, and structured verification. The strongest evidence supports tutoring-style interventions and carefully engineered feedback loops, including physics-specific step-based approaches and recent randomized evidence showing substantial gains in authentic settings. Generative AI expands scalability but raises unique epistemic risks—especially student over-trust—making AI literacy and verification workflows integral to physics learning rather than optional add-ons. The practical path forward is outcome-aligned integration, guardrails that keep students cognitively in charge, and rigorous evaluation of learning gains and equity impacts.
+Embedding AI into undergraduate physics can improve outcomes when AI is designed as instruction: step-level feedback, enforced expert practices, and structured verification. The strongest evidence supports tutoring-style interventions and carefully engineered feedback loops, including physics-specific step-based approaches and recent randomized evidence showing substantial gains in authentic settings. Generative AI expands scalability but raises unique epistemic risks especially student over-trust making AI literacy and verification workflows integral to physics learning rather than optional add-ons. The practical path forward is outcome-aligned integration, guardrails that keep students cognitively in charge, and rigorous evaluation of learning gains and equity impacts.
 
 # References
 

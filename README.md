@@ -9,7 +9,7 @@
 3. [Using Python to create Interactive Teaching](https://github.com/ph7klw76/creativeteachingmethod/blob/main/Interactive_Physics_Teaching.md)
 4. [If you class has too many students and you don't know who to pick in Q&A session](https://github.com/ph7klw76/creativeteachingmethod/blob/main/pickname.md)
 5. [Embedding Artificial Intelligence in Undergraduate Physics](https://github.com/ph7klw76/creativeteachingmethod/blob/main/physics_teaching.md)
-6. [Creating an AI Diagnostic Assessor in your course for students for each learning outcomes](https://github.com/ph7klw76/creativeteachingmethod/blob/main/DiagnosticAssessor.md)
+6. [Creating an AI Diagnostic Assessor in your course for students for each learning outcome](https://github.com/ph7klw76/creativeteachingmethod/blob/main/DiagnosticAssessor.md)
 7. [Problem Solving Expert for Students](https://github.com/ph7klw76/creativeteachingmethod/blob/main/metaexpert.md)
 8. [Diagnostic for end of each class](https://github.com/ph7klw76/creativeteachingmethod/blob/main/classend.md)
 9. [Improving Final Year Report](https://github.com/ph7klw76/creativeteachingmethod/blob/main/FYP.md)

@@ -14,4 +14,5 @@
 8. [Improving Final Year Report](https://github.com/ph7klw76/creativeteachingmethod/blob/main/FYP.md)
 9. [AI-assited data analysis of Lab data](https://github.com/ph7klw76/creativeteachingmethod/blob/main/lab.md)
 10. [Join the evolving OpenAI’s Higher Education Community](https://academy.openai.com/)
+11. [AI Toolkits for Video/Audio Generation](https://github.com/ph7klw76/creativeteachingmethod/blob/main/AI_teaching.md)
    

@@ -7,6 +7,6 @@
 1. [Making youtube as an interactive content](https://github.com/ph7klw76/creativeteachingmethod/blob/main/Interactive_Content.md)
 2. [Problem-based learning](https://github.com/ph7klw76/creativeteachingmethod/blob/main/PBL.md)
 3. [Using Python to create Interactive Teaching](https://github.com/ph7klw76/creativeteachingmethod/blob/main/Interactive_Physics_Teaching.md)
-4. [If you class has too many students and you don't know who to pick in Q&A session](https://github.com/ph7klw76/creativeteachingmethod/blob/main/pickname.html)
+4. [If you class has too many students and you don't know who to pick in Q&A session](https://github.com/ph7klw76/creativeteachingmethod/blob/main/pickname.md)
 5. [Creating an AI Diagnostic Assessor in your course for students](https://github.com/ph7klw76/creativeteachingmethod/blob/main/DiagnosticAssessor.md)
    

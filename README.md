@@ -12,5 +12,5 @@
 6. [Problem Solving Expert for Students](https://github.com/ph7klw76/creativeteachingmethod/blob/main/metaexpert.md)
 7. [Diagnostic for end of each class](https://github.com/ph7klw76/creativeteachingmethod/blob/main/classend.md)
 8. [Improving Final Year Report](https://github.com/ph7klw76/creativeteachingmethod/blob/main/FYP.md)
-9. [AI-assited data analysis of Lab data](https://github.com/ph7klw76/creativeteachingmethod/blob/main/labdata.md)
+9. [AI-assited data analysis of Lab data](https://github.com/ph7klw76/creativeteachingmethod/blob/main/lab.md)
    

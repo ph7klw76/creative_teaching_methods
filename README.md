@@ -8,5 +8,8 @@
 2. [Problem-based learning](https://github.com/ph7klw76/creativeteachingmethod/blob/main/PBL.md)
 3. [Using Python to create Interactive Teaching](https://github.com/ph7klw76/creativeteachingmethod/blob/main/Interactive_Physics_Teaching.md)
 4. [If you class has too many students and you don't know who to pick in Q&A session](https://github.com/ph7klw76/creativeteachingmethod/blob/main/pickname.md)
-5. [Creating an AI Diagnostic Assessor in your course for students](https://github.com/ph7klw76/creativeteachingmethod/blob/main/DiagnosticAssessor.md)
+5. [Creating an AI Diagnostic Assessor in your course for students for each learning outcomes](https://github.com/ph7klw76/creativeteachingmethod/blob/main/DiagnosticAssessor.md)
+6. [Problem Solving Expert for Students](https://github.com/ph7klw76/creativeteachingmethod/blob/main/metaexpert.md)
+7. [Diagnostic for end of each class](https://github.com/ph7klw76/creativeteachingmethod/blob/main/classend.md)
+8. [Improving Final Year Report](https://github.com/ph7klw76/creativeteachingmethod/blob/main/FYP.md)
    

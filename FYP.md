@@ -1,4 +1,4 @@
-## Imporve FYP before submitting
+## Improve FYP before submitting
 
 Often final years projects full of misconception, errors, significant figures that make no sense, lack of explanation and etcs. Students feel safe when AI is blunt and honest
 

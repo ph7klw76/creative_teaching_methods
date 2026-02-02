@@ -4,7 +4,7 @@
 
 # Creative Teaching Methods
 
-1. [Making youtube as an interactive content](https://github.com/ph7klw76/creativeteachingmethod/blob/main/Interactive_Content.md)
+1. [Making youtube as an interactive content](creative_interactive_youtube.md)
 2. [Problem-based learning](https://github.com/ph7klw76/creativeteachingmethod/blob/main/PBL.md)
 3. [Using Python to create Interactive Teaching](https://github.com/ph7klw76/creativeteachingmethod/blob/main/Interactive_Physics_Teaching.md)
 4. [If you class has too many students and you don't know who to pick in Q&A session](https://github.com/ph7klw76/creativeteachingmethod/blob/main/pickname.md)

@@ -16,4 +16,5 @@
 10. [AI-assited data analysis of Lab data](https://github.com/ph7klw76/creativeteachingmethod/blob/main/lab.md)
 11. [Join the evolving OpenAI’s Higher Education Community](https://academy.openai.com/)
 12. [AI Toolkits for Video/Audio Generation](https://github.com/ph7klw76/creativeteachingmethod/blob/main/AI_teaching.md)
+13. [Video demostration of Teach Smarter with AI: Live Workshop](https://www.youtube.com/watch?v=kxP_y0DHO6o)
    

@@ -1,3 +1,5 @@
+A summary of the workflow in youtube slide deck format can be found at [here](https://youtu.be/treEjoKbDXw)
+
 Since the SMEB3306 course does not have an available textbook in the university library, I conducted an in-depth search using ChatGPT-5.2 Extended Thinking and Gemini Pro 3.1.
 Based on the course content and proforma, I used the following prompts:
 •	“Do a deep search on the physics, physical chemistry, engineering, applications, and materials perspectives of piezoelectric polymers, and produce a detailed undergraduate-level textbook chapter.”

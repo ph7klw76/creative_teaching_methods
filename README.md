@@ -19,4 +19,5 @@
 13. [Video demostration of Teach Smarter with AI: Live Workshop](https://www.youtube.com/watch?v=kxP_y0DHO6o)
 14. [How to teach difficult topics in Physics](teachingdifficultsubject.md)
 15. [Workflow for Generating Course Materials and Slide Decks Using AI Tools](AI_LectureNotes.md)
+16. [Understand more about Notebook LLM](NotebookLM_Understand_Anything.pdf)
    

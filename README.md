@@ -11,7 +11,7 @@
 5. [Embedding Artificial Intelligence in Undergraduate Physics](https://github.com/ph7klw76/creativeteachingmethod/blob/main/physics_teaching.md)
 6. [Creating an AI Diagnostic Assessor in your course for students for each learning outcome](https://github.com/ph7klw76/creativeteachingmethod/blob/main/DiagnosticAssessor.md)
 7. [Problem Solving Expert for Students](https://github.com/ph7klw76/creativeteachingmethod/blob/main/metaexpert.md)
-8. [Diagnostic for end of each class](https://github.com/ph7klw76/creativeteachingmethod/blob/main/classend.md)
+8. [Diagnostic for end of each class using ChatGPT](https://github.com/ph7klw76/creativeteachingmethod/blob/main/classend.md)
 9. [Improving Final Year Report](https://github.com/ph7klw76/creativeteachingmethod/blob/main/FYP.md)
 10. [AI-assited data analysis of Lab data](https://github.com/ph7klw76/creativeteachingmethod/blob/main/lab.md)
 11. [Join the evolving OpenAI’s Higher Education Community](https://academy.openai.com/)
